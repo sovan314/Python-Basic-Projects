@@ -1,0 +1,48 @@
+Father of python - Guido van Rossum
+python was created in 1980.
+python was available in 1991.
+Features of python:-
+  1. simple and easy to learn
+  2. platform dependent
+  3. Case Sensitive
+  4. Interpreted Language
+  5. Concise Code
+  6. Free and Open source
+Types of operators:-
+   1.Arithmatic
+   2.Assignment
+   3.Comparison
+   4.Logical
+   5.Bitwise
+   6.Identity
+   7.Membership
+33 number of keywords in python
+There are 5 types of Datatypes.
+      1.Numeric
+      2.Dictionary
+      3.Boolean
+      4.Set
+      5.Sequence type
+String Functions:-
+       1.isalnum()
+       2.count()
+       3.endswith()
+       4.Capitalize()
+       5.find()
+       6.upper()
+       7.Lower()
+Tuples are immutable because this can not be changed.
+Dictionaries are mutable.       
+for loop syntax : for i in range():
+Functions are 2 types.
+                1.built-in = pre defined functions,which are already defined(len,del,append etc)
+                2.user-defined = which you will make.
+procedure of writting main function :-  if __name__ ==  "__main__"
+File Handling Basics
+"r" = open file for reading
+"w" = open file for writing
+"x" = creates file if not exist
+"a" = add more content to a file
+"t" = text mode
+"b" = binary mode
+"+" = read and write
